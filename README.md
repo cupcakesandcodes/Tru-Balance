@@ -1,4 +1,4 @@
-# Truelancer - Smart Expense Tracker & Invoicing App
+# Tru-Balance - Smart Expense Tracker & Invoicing App
 
 ![Truelancer Banner](docs/banner_placeholder.png)
 *(Replace with actual banner or screenshot of dashboard)*
